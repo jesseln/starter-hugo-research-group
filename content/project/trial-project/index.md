@@ -13,4 +13,4 @@ image:
   preview_only: false
   caption: wool texture
 ---
-Lorem ipsum
+Lorem ipsum editted
