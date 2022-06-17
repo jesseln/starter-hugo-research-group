@@ -1,10 +1,11 @@
 ---
 title: Public Interest Advocacy (PIA) Project
 subtitle: Volutpat consequat mauris nunc congue nisi vitae suscipit tellus
-date: 2022-06-17T05:28:47.760Z
+date: 2022-06-17T05:54:24.609Z
 summary: ""
 draft: false
 featured: false
+authors: []
 image:
   filename: featured.jpg
   focal_point: Smart
