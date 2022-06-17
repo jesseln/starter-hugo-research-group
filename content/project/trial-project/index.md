@@ -8,7 +8,7 @@ featured: true
 authors:
   - admin
 image:
-  filename: missoniwidenew.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
   caption: wool texture
